@@ -1,0 +1,217 @@
+*{
+	-webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box;    
+    box-sizing: border-box; 
+}
+
+body{
+	background-image: url(../images/silver-metal.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-family: calibri, "san serif";
+}
+
+.main_header{
+	background-color: (255, 255, 255);
+	background-image: url(../images/metalgrate.jpg);
+	background-size: cover;
+	margin:25px;
+	font-size: 30px;
+	overflow: hidden;
+	
+}
+
+.main_header h1{
+	float: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 5%;
+	text-align: center;
+}
+
+}
+
+
+
+.chapter_name{
+	font-size: 25px;
+	float: center;
+	margin-right:5%;
+	margin-top: 5%;
+	text-align: center;
+	 
+}
+
+
+
+.chapter_name h2{
+	float: center;
+	margin-top: 5px;
+	text-align: center;
+}
+
+.note_paragraph{
+	display: none;
+	color: black;
+	margin-left: 275px;
+	margin-right: 275px;
+	font-size: 25px;
+}
+
+.note_paragraph a{
+	color: gray;
+}
+
+.button {	
+	
+	
+	margin-left: 190px;
+	margin-right: 190px;
+	margin-bottom: 35px;
+	margin-top: 40px;
+	padding: 0px;
+	text-align: center;
+	text-decoration: bold;
+}
+
+.button h1{
+	font-size: 45px;
+}
+
+.button:hover {
+	cursor: pointer;
+	color: green;
+}
+
+.nav_list{
+	list-style-type: none;
+	overflow: hidden;
+	background-color: rgba(255,255,255,1.0);
+	margin-left: 62px;
+	margin-right: 62px;
+	margin-bottom: 60px;
+	margin-top: 25px;
+	padding: 0px;
+	font-size: 10px;
+}
+
+.nav_link{
+	text-align: center;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 1%;
+	margin-bottom: 1%;
+	
+}
+
+.nav_link a{
+	text-decoration: bold;
+	margin:5%;
+	font-size: 35px;
+	color:blue;	
+
+
+}
+
+
+
+
+.main_form{
+	color: green;
+	margin-right: 200px;
+	margin-left: 200px;
+}
+
+.guestbook_header {
+	font-size: 50px;
+}
+
+.guestbook_intro{
+	font-size: 30px;
+}
+
+.post {
+	color:white;
+	border: gray solid 3px;
+	margin-left: 200px;
+	margin-right: 200px;
+	
+}
+
+.label-name {
+	margin-right: 1%;
+	
+	font-size: 30px;
+}
+
+.label-message {
+	margin-right: 1%;
+	
+	
+	
+	font-size: 30px;
+}
+
+#name_box {
+	font-size: 15px;
+	
+	width: 100%;
+	height: 30px;
+}
+
+#message_box {
+	font-size: 15px;
+	
+	width: 100%;
+	height: 50px;
+
+}
+
+button {
+	width: 25%;
+	height: 50px;
+	font-size: 25px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-right: 20px;
+}
+
+.post_name {
+	font-size: 25px;
+	margin-left: 10px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.post_name h2 {
+	margin-left: 10px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.post_message {
+	font-size: 25px;
+}
+
+.post_message blockquote {
+	margin-left: 50px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+.post_message p {
+	margin-left: 25px;
+	margin-top: 1px;
+	margin-bottom: 1px;
+}
+
+
+
+}
+
+
+
+
+
+	
+

@@ -1,0 +1,78 @@
+* This is a CSS comment.*/
+
+body {
+  text-align: center; font-family:"tahoma",sans-serif,"georgia",serif;
+  background-color: rgb(255, 255, 255); font-size: 20px;
+  color: rgb(0,0,0); margin:40px; padding:0px; border-style:solid; border-color: rgb(80,80,80); border-width:thick; 
+  margin-top: 0px; padding-top: 0px;
+}
+
+
+div.flex-container {
+               padding:10px;text-align: center; margin:5; list-style:none; display: -webkit-box;
+               display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-flow: row wrap; justify-content: center; flex-wrap:wrap;
+}
+div.flex-container {
+               padding:10px;text-align: center; margin:5; list-style:none; display: -webkit-box;
+               display: -moz-box; display: -ms-flexbox; display: -webkit-flex; display: flex; -webkit-flex-flow: row wrap; justify-content: center; flex-wrap:wrap;
+}
+
+div.flex-item-1 {
+          width:30%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
+div.flex-item-2 {
+         width:30%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
+
+div.flex-item-3 {
+         width:30%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
+ul {
+  text-align:left;
+}
+div.flex-item-4 {
+          width:30%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
+div.flex-item-5 {
+         width:30%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
+
+div.flex-item-6 {
+         width:30%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
+
+h1 {
+  background-color: #33CC00;color: rgb(255,255,255); margin-top: 0px; padding: 0px;text-align: center;border-radius: 20px; 
+}
+
+
+
+h3 {
+  color: #000000;font-size: 25px;text-align: center; border-radius: 10px; background-color: #C0C0C0;width:100%; 
+
+}
+h {
+  color: #000000;font-size: 25px;text-align: center; border-radius: 10px; 
+
+}
+}
+div.banner {
+       background-color:rgb(221,221,221);justify-content: center; padding-bottom: 0px;
+}
+h2{background-color: blue; border-radius: 20px; padding: 10px;
+}
+
+div.stage1{width:95%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: left; 
+  }
+
+p.two{width:95%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center; 
+  }
+
+  
+  div.flex-item-7{
+         width:50%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
+
+div.flex-item-8 {
+         width:50%; margin:10px; padding:0px; background-color: rgb(243,243,243); text-align: center;border-style:solid; border-width: medium; border-radius: 15px ;border-color: rgb(80, 80, 80);
+}
